@@ -154,3 +154,44 @@
     display: flex;
     justify-content: flex-end;
 }
+
+.cta {
+    background-color: #3882F6;
+    color: white;
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 40px 80px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.cta h2 {
+
+}
+
+.cta p {
+    color: #d4d4d4;
+}
+
+.cta-text {
+
+}
+
+.cta button {
+    width: 100px;
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
+    border-radius: 6px;
+    padding: 6px 8px;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.cta-button {
+
+}
